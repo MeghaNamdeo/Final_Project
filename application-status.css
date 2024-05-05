@@ -1,0 +1,9 @@
+.application-status {
+    padding: 20px;
+}
+
+.status-update {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
